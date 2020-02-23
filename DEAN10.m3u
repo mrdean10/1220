@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0 group-title="BOLIVIA"tvg-logo="https://i.ibb.co/gyMZNMh/unnamed.png",BOLIVIA TV
 https://5ca3e84a76d30.streamlock.net/boliviatv/smil:boliviatv.smil/playlist.m3u8
-#EXTINF:0 group-title="BOLIVIA"tvg-logo="http://logo.ddnb.tn/logochanel/1288.png",PAT TV SANTA CRUZ
+#EXTINF:0 group-title="BOLIVIA"tvg-logo="https://i.ibb.co/n1H1rQf/descarga.png",PAT TV
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/playlist.m3u8
