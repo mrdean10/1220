@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:0 group-title="BOLIVIA"tvg-logo="https://i.ibb.co/gyMZNMh/unnamed.png",BOLIVIA TV
 https://5ca3e84a76d30.streamlock.net/boliviatv/smil:boliviatv.smil/playlist.m3u8
+#EXTINF:0 group-title="BOLIVIA"tvg-logo="https://i.ibb.co/gyMZNMh/unnamed.png",BOLIVIA TV OP 2
+https://5ca3e84a76d30.streamlock.net/boliviatv/smil:boliviatv.smil/chunklist_w1746890486_b1428000_sleng.m3u8
 #EXTINF:0 group-title="BOLIVIA"tvg-logo="http://logo.ddnb.tn/logochanel/1288.png",PAT TV SANTA CRUZ
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/playlist.m3u8
+#EXTINF:0 group-title="HBO"tvg-logo="#",HBO
+http://23.237.0.58:8080/televisiongratishd/27_.m3u8?md5=hfhpzLvtzoUTv0HgS-jpNg&expires=1582507637
 #EXTINF:0 group-title="PELICULAS"tvg-logo="https://i.ibb.co/SJkzcMr/logo.png",JOJO RABBIT (2019)
 https://fs209.gounlimited.to/tea5upwcsh2qzxfffmmivilb6qm7fjipxwvlvjuvbigbieep2hwzteyx3rva/Jojo.rabbit.2019.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:0 group-title="PELICULAS"tvg-logo="https://i.ibb.co/SJkzcMr/logo.png",JUGANDO CON FUEGO (2019)
